@@ -29,16 +29,16 @@ learned in the OOP module and takes advantage of all the features.
 #include <memory>
 #include <sstream>
 #include <string>
-#include "other_functions.h"
-#include "celestialbodies.h"
-#include "singularobjects.h"
-#include "stars.h" 
-#include "planets.h"
-#include "neutronstars.h"
-#include "galaxy.h"
-#include "sorting.h"
-#include "data.h"
-#include "menu.h"
+#include "include/other_functions.h"
+#include "include/celestialbodies.h"
+#include "include/singularobjects.h"
+#include "include/stars.h"
+#include "include/planets.h"
+#include "include/neutronstars.h"
+#include "include/galaxy.h"
+#include "include/sorting.h"
+#include "include/data.h"
+#include "include/menu.h"
 
 
 int main()
